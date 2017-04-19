@@ -1,0 +1,14 @@
+a.first:hover{
+	color: red;
+
+}
+
+a.second:hover{
+	background-color: yellow;
+}
+
+a.third:active{
+	padding:0 5px 0 5px;
+
+
+}
